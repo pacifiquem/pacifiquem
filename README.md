@@ -14,18 +14,18 @@ Skills:
 <br>
 
 <p>
-  <a href="https://wwww.facebook.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="48px" height="48px"/></a>
-  <a href="https://wwww.instagram.com"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-  <a href="https://wwww.linkedin.com"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
-  <a href="https://wwww.facebook.com"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-  <a href="https://wwww.instagram.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="48px" height="48px"/></a>
-  <a href="https://wwww.linkedin.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-  <a href="https://wwww.facebook.com"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-  <a href="https://wwww.instagram.com"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="48px" height="48px"/></a>
-  <a href="https://wwww.linkedin.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="48px" height="48px"/></a>
-  <a href="https://wwww.instagram.com"><img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" width="48px" height="48px"/></a>
-   <a href="https://wwww.facebook.com"><img src="https://www.mementotech.in/assets/images/icons/express.png" width="48px" height="48px"/></a>
-   <a href="https://wwww.facebook.com"><img src="https://iconape.com/wp-content/files/hl/371476/svg/371476.svg" width="48px" height="48px"/></a>
+  <a href="https://www.php.net/docs.php"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="48px" height="48px"/></a>
+  <a href="https://devdocs.io/c/"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="48px" height="48px"/></a>
+  <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+  <a href="https://reactjs.org/docs/getting-started.html"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+  <a href="https://https://www.mongodb.com/atlas"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="48px" height="48px"/></a>
+  <a href="https://dev.mysql.com/doc/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="48px" height="48px"/></a>
+  <a href="https://nodejs.org/en/docs/"><img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" width="48px" height="48px"/></a>
+   <a href="https://wwww.expressjs.com"><img src="https://www.mementotech.in/assets/images/icons/express.png" width="48px" height="48px"/></a>
+   <a href="https://wwww.socket.io"><img src="https://iconape.com/wp-content/files/hl/371476/svg/371476.svg" width="48px" height="48px"/></a>
 </p>
 
 <hr>
