@@ -1,5 +1,5 @@
 Hello there👋👋  My name is MURANGWA Pacifique.<br>
-A fullstack developer currently learning software development at <a href="rca.ac.rw">RWANDA CODING ACADEMY</a>.
+A fullstack developer currently learning software development at <a href="https://www.rca.ac.rw">RWANDA CODING ACADEMY</a>.
 <br>
 <hr>
 <br>
