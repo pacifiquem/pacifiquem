@@ -1,12 +1,14 @@
 Hello there👋👋  My name is MURANGWA Pacifique.<br>
 A fullstack developer currently learning software development at <a href="https://www.rca.ac.rw">RWANDA CODING ACADEMY</a>.
-<br>
 <hr>
 <br>
-🌍  I'm based in RWANDA<br>
-🚀  I'm currently working on TalentDevs & Smartfy<br>
-🤝  I'm open to collaborating on anything.<br>
-⚡  I am a football fan especially FC Barcelona and Chelsea<br>
+<ul>
+  <li>🌍  I'm based in RWANDA</li>
+  <li>🚀  I'm currently working on TalentDevs & Smartfy</li>
+  <li>🤝  I'm open to collaborating on anything.</li>
+  <li>⚡  I am a football fan especially FC Barcelona and Chelsea</li>
+  <li>✉️  You can contact me at <a href="https://www.gmail.com">pacifiquemurangwa001@gmail.com</a></li>
+</ul>
 <br>
 <hr>
 <br>
@@ -29,7 +31,6 @@ Skills:
 </p>
 
 <hr>
-<br>
 Follow Me:
 <br>
 <p>
