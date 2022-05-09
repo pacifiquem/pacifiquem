@@ -1,12 +1,17 @@
 Hello there👋👋  My name is MURANGWA Pacifique.
 
+
+
 A fullstack developer currently learning software development at RWANDA CODING ACADEMY.
+
 
 
 🌍  I'm based in RWANDA
 🚀  I'm currently working on TalentDevs & Smartfy
 🤝  I'm open to collaborating on anything.
 ⚡  I am a football fan especially FC Barcelona and Chelsea
+
+
 
 Skills: 
 
