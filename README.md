@@ -38,3 +38,11 @@ Follow Me:
   <a href="instagram.com/pacifique__m/" style="margin-left: 20px;"><img src="http://zonasiete.net/wp-content/uploads/2020/08/768px-Instagram_logo_2016.svg_.png" height="48px" width="48px"/></a>
   <a href="https://www.linkedin.com/search/results/all/?keywords=pacifique-murangwa&origin=GLOBAL_SEARCH_HEADER&sid=RIn" style="margin-left: 20px;"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a>
 </p>
+<hr>
+Statistics:
+<br>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=paccy001&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paccy001&langs_count=5&theme=tokyonight)]()
+
