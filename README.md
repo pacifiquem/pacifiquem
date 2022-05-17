@@ -9,12 +9,9 @@ A fullstack developer currently learning software development at <a href="https:
   <li>⚡  I am a football fan especially FC Barcelona and Chelsea</li>
   <li>✉️  You can contact me at <a href="https://www.gmail.com">pacifiquemurangwa001@gmail.com</a></li>
 </ul>
-<br>
 <hr>
 <br>
 Skills: 
-<br>
-
 <p>
   <a href="https://www.php.net/docs.php"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="48px" height="48px"/></a>
   <a href="https://devdocs.io/c/"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
