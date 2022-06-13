@@ -4,7 +4,7 @@ A fullstack developer currently learning software development at <a href="https:
 <br>
 <ul>
   <li>🌍  I'm based in RWANDA</li>
-  <li>🚀  I'm currently working on ASCEND</li>
+  <li>🚀  I'm currently working on ASCEND as a fullstack developer</li>
   <li>🤝  I'm open to collaborating on anything.</li>
   <li>⚡  I am a football fan especially FC Barcelona and Chelsea</li>
   <li>✉️  You can contact me at   <span style="margin-left:50px;">  {{{<a href="https://www.gmail.com">pacifiquemurangwa001@gmail.com</a> -- <a href="https://www.facebook.com/manzi.lionel.568" style="margin-left: 50px;">Facebook</a> -- <a href="https://www.instagram.com/pacifique__m/" style="margin-left: 50px;">Instagram</a> -- <a href="https://www.linkedin.com/search/results/all/?keywords=pacifique-murangwa&origin=GLOBAL_SEARCH_HEADER&sid=RIn" style="margin-left: 50px;">Linked In</a>}}}</span></li>
@@ -25,6 +25,7 @@ Skills:
   <a href="https://nodejs.org/en/docs/"><img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application-thumbnail.png" width="48px" height="48px"/></a>
    <a href="https://wwww.expressjs.com"><img src="https://www.mementotech.in/assets/images/icons/express.png" width="48px" height="48px"/></a>
    <a href="https://wwww.socket.io"><img src="https://iconape.com/wp-content/files/hl/371476/svg/371476.svg" width="48px" height="48px"/></a>
+  <a href="https://wwww.typescriptlang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="48px" height="48px"/></a>
 </p>
 <hr>
 Statistics:
