@@ -26,6 +26,7 @@ Skills:
    <a href="https://wwww.expressjs.com"><img src="https://www.mementotech.in/assets/images/icons/express.png" width="48px" height="48px"/></a>
    <a href="https://wwww.socket.io"><img src="https://iconape.com/wp-content/files/hl/371476/svg/371476.svg" width="48px" height="48px"/></a>
   <a href="https://wwww.typescriptlang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="48px" height="48px"/></a>
+   <a href="https://www.codeigniter.com"><img src="https://www.zend.com/sites/default/files/image/2019-09/logo-codeigniter.jpg" width="48px" height="48px"/></a>
 </p>
 <hr>
 Statistics:
