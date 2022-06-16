@@ -1,7 +1,6 @@
 Hello there👋👋  My name is MURANGWA Pacifique.<br>
 A fullstack developer currently learning software development at <a href="https://www.rca.ac.rw">RWANDA CODING ACADEMY</a>.
 <hr>
-<br>
 <ul>
   <li>🌍  I'm based in RWANDA</li>
   <li>🚀  I'm currently working on ASCEND as a fullstack developer</li>
@@ -10,7 +9,6 @@ A fullstack developer currently learning software development at <a href="https:
   <li>✉️  You can contact me at   <span style="margin-left:50px;">  {{{<a href="https://www.gmail.com">pacifiquemurangwa001@gmail.com</a> -- <a href="https://www.facebook.com/manzi.lionel.568" style="margin-left: 50px;">Facebook</a> -- <a href="https://www.instagram.com/pacifique__m/" style="margin-left: 50px;">Instagram</a> -- <a href="https://www.linkedin.com/search/results/all/?keywords=pacifique-murangwa&origin=GLOBAL_SEARCH_HEADER&sid=RIn" style="margin-left: 50px;">Linked In</a>}}}</span></li>
 </ul>
 <hr>
-<br>
 Skills: 
 <p>
   <a href="https://www.php.net/docs.php"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="48px" height="48px"/></a>
@@ -30,7 +28,6 @@ Skills:
 </p>
 <hr>
 Statistics:
-<br>
 
 
 <div style="background-color: white;">
