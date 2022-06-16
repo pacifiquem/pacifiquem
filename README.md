@@ -32,7 +32,24 @@ Skills:
 Statistics:
 <br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=paccy001&count_private=true&theme=tokyonight&showicons=true)]()
-<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paccy001&langs_count=5&theme=tokyonight)]()
+
+<div style="background-color=white">
+  
+      <a href="http://www.github.com/paccy001" style="position: absolute; top=0"><img src="https://github-readme-stats.vercel.app/api?username=paccy001&show_icons=true&hide=&count_private=true&title_color=0075ff&text_color=000&icon_color=white&bg_color=fff&hide_border=true&show_icons=true" alt="Pacifique's GitHub stats"/></a>
+  
+  <a href="http://www.github.com/paccy001" style="position: absolute; top=0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paccy001&stroke=ffffff&background=fff&ring=0075ff&fire=0075ff&currStreakNum=ffffff&currStreakLabel=0075ff&sideNums=000&sideLabels=000&dates=000&hide_border=true" width="400px"/></a>
+  
+  
+</div>
+
+  <a href="http://www.github.com/paccy001"><img src="https://github-profile-trophy.vercel.app/?username=paccy001" /></a>
+
+<a href="http://www.github.com/paccy001"><img src="https://activity-graph.herokuapp.com/graph?username=paccy001&bg_color=fff&color=000&line=0075ff&point=000&area_color=164df97a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/paccy001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paccy001&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html" alt="Top Languages" /></a>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{paccy001}/count.svg" /></p> 
+<br></div>
 
