@@ -33,13 +33,12 @@ Statistics:
 <br>
 
 
-<div style="background-color=white">
+<div style="background-color: white;">
+
+<a href="http://www.github.com/paccy001"><img src="https://github-readme-stats.vercel.app/api?username=paccy001&show_icons=true&hide=&count_private=true&title_color=0075ff&text_color=000&icon_color=white&bg_color=fff&hide_border=true&show_icons=true" alt="Pacifique's GitHub stats" width="400px" /></a>
   
-      <a href="http://www.github.com/paccy001" style="position: absolute; top=0"><img src="https://github-readme-stats.vercel.app/api?username=paccy001&show_icons=true&hide=&count_private=true&title_color=0075ff&text_color=000&icon_color=white&bg_color=fff&hide_border=true&show_icons=true" alt="Pacifique's GitHub stats"/></a>
-  
-  <a href="http://www.github.com/paccy001" style="position: absolute; top=0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paccy001&stroke=ffffff&background=fff&ring=0075ff&fire=0075ff&currStreakNum=ffffff&currStreakLabel=0075ff&sideNums=000&sideLabels=000&dates=000&hide_border=true" width="400px"/></a>
-  
-  
+ <a href="http://www.github.com/paccy001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paccy001&stroke=ffffff&background=fff&ring=0075ff&fire=0075ff&currStreakNum=ffffff&currStreakLabel=0075ff&sideNums=000&sideLabels=000&dates=000&hide_border=true" width="400px"/></a>
+ 
 </div>
 
   <a href="http://www.github.com/paccy001"><img src="https://github-profile-trophy.vercel.app/?username=paccy001" /></a>
