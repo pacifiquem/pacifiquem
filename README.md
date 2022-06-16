@@ -43,9 +43,3 @@ Statistics:
 <a href="http://www.github.com/paccy001"><img src="https://activity-graph.herokuapp.com/graph?username=paccy001&bg_color=fff&color=000&line=0075ff&point=000&area_color=164df97a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/paccy001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paccy001&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html" alt="Top Languages" /></a>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{paccy001}/count.svg" /></p> 
-<br></div>
-
