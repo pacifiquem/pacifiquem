@@ -1,5 +1,5 @@
-Hello there👋👋  My name is MURANGWA Pacifique.<br>
-A fullstack developer currently learning software development at <a href="https://www.rca.ac.rw">RWANDA CODING ACADEMY</a>.
+<h4>Hello there👋👋  My name is MURANGWA Pacifique.</h4>
+<h6>A fullstack developer currently learning software development at <a href="https://www.rca.ac.rw">RWANDA CODING ACADEMY</a>.</h6>
 <hr>
 <ul>
   <li>🌍  I'm based in RWANDA</li>
