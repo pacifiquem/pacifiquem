@@ -1,9 +1,9 @@
-<h4>Hello there👋👋  My name is MURANGWA Pacifique.</h4>
+<h4>Hello there👋👋  My name is <a href="https://pacifiquem.vercel.app">MURANGWA Pacifique.</a></h4>
 <h6>A fullstack developer currently learning software development at <a href="https://www.rca.ac.rw">RWANDA CODING ACADEMY</a>.</h6>
 <hr>
 <ul>
   <li>🌍  I'm based in RWANDA</li>
-  <li>🚀  I'm currently working on aboutme and stockmanagement_with_php as a fullstack developer</li>
+  <li>🚀  I'm currently working on <a href="#">sportsway</a> as a fullstack developer</li>
   <li>🤝  I'm open to collaborating on anything.</li>
   <li>⚡  I am a football fan especially FC Barcelona and Chelsea</li>
   <li>✉️  You can contact me at   <span style="margin-left:50px;">  {{{<a href="https://www.gmail.com">pacifiquemurangwa001@gmail.com</a> -- <a href="https://www.facebook.com/manzi.lionel.568" style="margin-left: 50px;">Facebook</a> -- <a href="https://www.instagram.com/pacifique__m/" style="margin-left: 50px;">Instagram</a> -- <a href="https://www.linkedin.com/search/results/all/?keywords=pacifique-murangwa&origin=GLOBAL_SEARCH_HEADER&sid=RIn" style="margin-left: 50px;">Linked In</a>}}}</span></li>
