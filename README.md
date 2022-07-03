@@ -34,7 +34,7 @@ Statistics:
 
 <a href="http://www.github.com/pacifiquem"><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&show_icons=true&hide=&count_private=true&title_color=0075ff&text_color=000&icon_color=white&bg_color=fff&hide_border=true&show_icons=true" alt="Pacifique's GitHub stats" width="400px" /></a>
   
- <a href="http://www.github.com/pacifiquem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pacifiquem&stroke=ffffff&background=fff&ring=0075ff&fire=0075ff&currStreakNum=ffffff&currStreakLabel=0075ff&sideNums=000&sideLabels=000&dates=000&hide_border=true" width="400px"/></a>
+ <a href="http://www.github.com/pacifiquem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pacifiquem&stroke=ffffff&background=000&ring=02740f&fire=0075ff&currStreakNum=ffffff&currStreakLabel=0075ff&sideNums=000&sideLabels=000&dates=000&hide_border=true" width="400px"/></a>
  
 </div>
 
