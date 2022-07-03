@@ -1,5 +1,5 @@
-<h4>Hello there👋👋  My name is <a href="https://pacifiquem.vercel.app">MURANGWA Pacifique.</a></h4>
-<h6>A fullstack developer currently learning software development at <a href="https://www.rca.ac.rw">RWANDA CODING ACADEMY</a>.</h6>
+<h3>Hello there👋👋  My name is <a href="https://pacifiquem.vercel.app">MURANGWA Pacifique.</a></h3>
+<h4>A fullstack developer currently learning software development at <a href="https://www.rca.ac.rw">RWANDA CODING ACADEMY</a>.</h4>
 <hr>
 <ul>
   <li>🌍  I'm based in RWANDA</li>
