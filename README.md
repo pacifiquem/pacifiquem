@@ -6,7 +6,7 @@
   <li>🚀  I'm currently working on <a href="https://github.com/pacifiquem/sportsway.git">sportsway</a> as a fullstack developer</li>
   <li>🤝  I'm open to collaborating on anything.</li>
   <li>⚡  I am a football fan especially FC Barcelona and Chelsea</li>
-  <li>✉️  You can contact me at   <span style="margin-left:50px;">  {{{<a href="https://www.gmail.com">pacifiquemurangwa001@gmail.com</a> -- <a href="https://www.facebook.com/manzi.lionel.568" style="margin-left: 50px;">Facebook</a> -- <a href="https://www.instagram.com/pacifique__m/" style="margin-left: 50px;">Instagram</a> -- <a href="https://www.linkedin.com/search/results/all/?keywords=pacifique-murangwa&origin=GLOBAL_SEARCH_HEADER&sid=RIn" style="margin-left: 50px;">Linked In</a>}}}</span></li>
+  <li>✉️  You can contact me via   <span style="margin-left:50px;">  {{{<a href="https://www.gmail.com">pacifiquemurangwa001@gmail.com</a> -- <a href="https://www.facebook.com/manzi.lionel.568" style="margin-left: 50px;">Facebook</a> -- <a href="https://www.instagram.com/pacifique__m/" style="margin-left: 50px;">Instagram</a> -- <a href="https://www.linkedin.com/search/results/all/?keywords=pacifique-murangwa&origin=GLOBAL_SEARCH_HEADER&sid=RIn" style="margin-left: 50px;">Linked In</a>}}}</span></li>
 </ul>
 <hr>
 Skills: 
