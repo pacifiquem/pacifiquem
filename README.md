@@ -1,5 +1,5 @@
-<h3>Hello there👋👋  My name is <a href="https://pacifiquem.vercel.app">MURANGWA Pacifique.</a></h3>
-<h4>A fullstack developer currently learning software engineering and embeded systems at <a href="https://www.rca.ac.rw">RWANDA CODING ACADEMY</a>.</h4>
+<p style="font-size:20px;">Welcome here 👋👋  My name is <a href="https://pacifiquem.vercel.app">MURANGWA Pacifique.</a></p>
+<p style="font-size:18px;">A fullstack developer currently learning software engineering and embeded systems at <a href="https://www.rca.ac.rw">RWANDA CODING ACADEMY</a>.</p>
 <hr>
 <ul>
   <li>🌍  I'm based in RWANDA</li>
@@ -29,17 +29,27 @@ Skills:
 <hr>
 Statistics:
 
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Pacifique's github stats](https://github-readme-stats.vercel.app/api?username=pacifiquem&show_icons=true&theme=dark&hide_title=true)](https://github.com/pacifiquem)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/pacifiquem)|![pacifiquem](https://github-readme-streak-stats.herokuapp.com/?user=pacifiquem&theme=dark)
+<hr>
+|My github tropies|
+<p align="center">
+<!--   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />   -->
+  <h2 align="center">My Github Profile Trophy</h2>
+</p>
 
-<div style="background-color: white;">
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=pacifiquem&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/pacifiquem)
+<hr>
 
-<a href="http://www.github.com/pacifiquem"><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&show_icons=true&hide=&count_private=true&title_color=0075ff&text_color=000&icon_color=white&bg_color=fff&hide_border=true&show_icons=true" alt="Pacifique's GitHub stats" width="400px" /></a>
-  
- <a href="http://www.github.com/pacifiquem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pacifiquem&stroke=000&background=fff&ring=02740f&fire=0075ff&currStreakNum=ffffff&currStreakLabel=0075ff&sideNums=000&sideLabels=000&dates=000&hide_border=true" width="400px"/></a>
- 
+<!-- START NEW SECTION -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pacifique}/count.svg" /></p> 
 </div>
-
+<br>
 <!--   <a href="http://www.github.com/pacifiquem"><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem" /></a> -->
 
 <!-- <a href="http://www.github.com/pacifiquem"><img src="https://activity-graph.herokuapp.com/graph?username=pacifiquem&bg_color=fff&color=000&line=0075ff&point=000&area_color=164df97a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<a href="https://github.com/pacifiquem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/pacifiquem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html" alt="Top Languages" /></a> -->
