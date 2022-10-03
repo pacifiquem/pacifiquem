@@ -29,21 +29,17 @@ Skills:
 <hr>
 Statistics:
 
-|My github statistics|My languages|Streaks|
-|-|-|-|
-|[![Pacifique's github stats](https://github-readme-stats.vercel.app/api?username=pacifiquem&show_icons=true&theme=dark&hide_title=true)](https://github.com/pacifiquem)|![pacifiquem](https://github-readme-streak-stats.herokuapp.com/?user=pacifiquem&theme=dark)
+[![Pacifique's github stats](https://github-readme-stats.vercel.app/api?username=pacifiquem&show_icons=true&theme=dark&hide_title=true)](https://github.com/pacifiquem)![pacifiquem](https://github-readme-streak-stats.herokuapp.com/?user=pacifiquem&theme=dark)
 <hr>
-|My github tropies|
 <p align="center">
 <!--   <img width="100" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />   -->
   <h2 align="center">My Github Profile Trophy</h2>
 </p>
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=pacifiquem&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/pacifiquem)
-<hr>
 <br>
- <a href="http://www.github.com/pacifiquem"><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem" /></a> 
+<div justify-content="center" align-items="center">
+     <a href="http://www.github.com/pacifiquem"><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem" /></a> 
+</div>
+
+<a href="https://github.com/pacifiquem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html" alt="Top Languages" /></a>
 
  <a href="http://www.github.com/pacifiquem"><img src="https://activity-graph.herokuapp.com/graph?username=pacifiquem&bg_color=fff&color=000&line=0075ff&point=000&area_color=164df97a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> 
-
- <a href="https://github.com/pacifiquem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html" alt="Top Languages" /></a>
