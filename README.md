@@ -4,4 +4,4 @@
 <h1>Stats : </h1>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=pacifiquem&theme=light" alt="pacifiquem" width="48%" /></span>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pacifiquem&show_icons=true&locale=en&layout=compact" alt="pacifiquem" width="40%" /></span>
-<span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem" alt="pacifiquem" /></span>
+<span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=onedark&row=2" /></span>
