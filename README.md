@@ -2,6 +2,6 @@
 <hr>
 
 <h1>Stats : </h1>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=pacifiquem&theme=light" alt="pacifiquem" width="48%" /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&show_icons=true&theme=vue" alt="node's github stats" /></span>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pacifiquem&show_icons=true&locale=en&layout=compact" alt="pacifiquem" width="40%" /></span>
-<span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=light&column=4" /></span>
+<span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=light&column=9" /></span>
