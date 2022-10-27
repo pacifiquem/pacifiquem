@@ -7,6 +7,6 @@
   <span><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&theme=dark" /></span>
 </span>
 <h1>Trophies : </span>
-<span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=onedark&column=9"/></span>
+<span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=dark_lover&column=9"/></span>
 <h1>Top lang : </h1>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&theme=dark&layout=compact" /></span>
