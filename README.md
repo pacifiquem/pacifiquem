@@ -2,7 +2,11 @@
 <hr>
 
 <h1>Stats : </h1>
-<span><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&show_icons=true&theme=vue" alt="node's github stats" /></span>
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pacifiquem&show_icons=true&locale=en&layout=compact&theme=vue" alt="pacifiquem" width="40%" 
-height="70%"/></span>
-<span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=light&column=9" height="30%" /></span>
+<span>
+  <span><img src="https://github-readme-streak-stats.herokuapp.com?user=pacifiquem&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /></span>
+  <span><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&theme=dark" /></span>
+</span>
+<h1>Trophies : </span>
+<span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=onedark&column=9"/></span>
+<h1>Top lang : </h1>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&theme=dark&layout=compact" /></span>
