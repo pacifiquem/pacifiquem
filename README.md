@@ -9,4 +9,5 @@
 <h1>Trophies : </span>
 <span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=alduin&column=9"/></span>
 <h1>Top lang : </h1>
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&theme=dark&layout=compact" /></span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&theme=dark&layout=compact" /></span><br><br>
+<p>NOTE: Top languages or Coding stats does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github</p>
