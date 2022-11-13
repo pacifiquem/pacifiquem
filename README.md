@@ -42,4 +42,4 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>         
 <br>
-<p>NOTE: Top languages or Coding stats does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github</p>
+<p>NOTE: Top languages or Coding stats does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github . </p>
