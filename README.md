@@ -3,7 +3,6 @@
 
 ### Stats
 <span>
-  <span><img src="https://github-readme-streak-stats.herokuapp.com?user=pacifiquem&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /></span>
   <span><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&theme=dark" /></span>
 </span>
 
