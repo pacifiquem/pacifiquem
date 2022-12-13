@@ -10,7 +10,7 @@
 <span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=alduin&column=9"/></span>
 
 ### Top lang
-<span><img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=8&layout=compact&theme=dark"/></span><br><br>
+<span><img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=12&layout=compact&theme=dark"/></span><br><br>
 
 ### Skills 
 <p align="left">
