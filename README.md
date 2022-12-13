@@ -1,16 +1,23 @@
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20you%20!;%20I%20am%20Pacifiquem;%20A%20fullstack%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=84DCCF&vCenter=true&size=45%22"></a>
+<span>
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20you%20!;%20I%20am%20Pacifiquem;%20A%20fullstack%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=84DCCF&vCenter=true&size=45%22"></a>
+</span>
+<br>
+<br>
 <hr>
 
 ### Stats
 <span>
   <span><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&theme=dark" /></span>
+  <span>
+    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=12&layout=compact&theme=dark"/>         </span>
 </span>
 
 ### Trophies
 <span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=alduin&column=9"/></span>
 
 ### Top lang
-<span><img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=12&layout=compact&theme=dark"/></span><br><br>
+
 
 ### Skills 
 <p align="left">
