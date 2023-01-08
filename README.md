@@ -1,6 +1,6 @@
 <span>
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20you%20!;%20I%20am%20Pacifiquem;%20A%20fullstack%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=84DCCF&vCenter=true&size=45%22"></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20Visitor%20!;%20I%20am%20Pacifiquem;%20A%20fullstack%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=84DCCF&vCenter=true&size=45%22"></a>
 </span>
 <br>
 <br>
