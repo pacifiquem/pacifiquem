@@ -4,13 +4,13 @@
 </span>
 <br>
 <hr>
-
+<!-- 
 ### Stats
 <span>
   <span><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&theme=dark" /></span>
   <span>
     <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=12&layout=compact&theme=dark"/>         </span>
-</span>
+</span> -->
 
 ### Trophies
 <span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=alduin&column=9"/></span>
@@ -40,5 +40,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>         
 <br>
-### Others
-<img src="https://wakatime.com/badge/user/556b08dc-cf36-46cd-8d8d-569c16f13116.svg" />
+
+<!-- ### Others
+![Daily Coding rate](https://wakatime.com/badge/user/556b08dc-cf36-46cd-8d8d-569c16f13116.svg) -->
