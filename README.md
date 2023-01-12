@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20beloved%20Visitor%20!;%20I%20am%20Pacifiquem;%20A%20fullstack%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20things;Enjoy%20to%20explore%20my%20coding%20work%20.&font=Pacifico&center=true&width=650&height=120&color=84DCCF&vCenter=true&size=45%22"></a>
 </span>
 <br>
-<br>
 <hr>
 
 ### Stats
@@ -41,4 +40,5 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>         
 <br>
-<p>NOTE: Top languages or Coding stats does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github . </p>
+### Others
+<img src="https://wakatime.com/badge/user/556b08dc-cf36-46cd-8d8d-569c16f13116.svg" />
