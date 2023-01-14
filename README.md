@@ -8,8 +8,8 @@
 ### Stats
 <span>
   <span><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&theme=dark" /></span>
-  <span>
-    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=12&layout=compact&theme=dark"/>         </span>
+<!--   <span>
+    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=12&layout=compact&theme=dark"/>         </span> -->
 </span>
 
 ### Trophies
