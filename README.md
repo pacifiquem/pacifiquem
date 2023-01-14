@@ -4,13 +4,13 @@
 </span>
 <br>
 <hr>
-<!-- 
+
 ### Stats
 <span>
   <span><img src="https://github-readme-stats.vercel.app/api?username=pacifiquem&theme=dark" /></span>
   <span>
     <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=12&layout=compact&theme=dark"/>         </span>
-</span> -->
+</span>
 
 ### Trophies
 <span><img src="https://github-profile-trophy.vercel.app/?username=pacifiquem&theme=alduin&column=9"/></span>
