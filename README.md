@@ -1,4 +1,19 @@
-<span>
+<p align="center">
+ <b>Hi✌️!&nbsp; Welome, I'm Pacifiquem</b> 
+<p align="center"> FullStack developer & Think of me as a kinda open source enthusiast .<br> 
+</p>
+<samp>
+<p align="center">
+<a href="https://www.linkedin.com/in/pacifique-murangwa-10394722b">Linkedin</a>&nbsp; . &nbsp;<a href="https://pacifiquem.engineer">Portfolio</a>&nbsp; . &nbsp;<a href="mailto:pacifiquemurangwa001@gmail.com">Email</a>
+ </p>
+  </samp>
+ </p>
+<!--
+<code>.tsx</code>&nbsp;&nbsp;&nbsp;&nbsp;✨✨<code> Ctrl + R </code>✨✨
+
+
+
+<!-- <span>
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20beloved%20Visitor%20!;%20I%20am%20Pacifiquem;%20A%20fullstack%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20things;Enjoy%20to%20explore%20my%20coding%20work%20.&font=Pacifico&center=true&width=650&height=120&color=84DCCF&vCenter=true&size=45%22"></a>
 </span>
@@ -39,7 +54,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>         
-<br>
+<br> -->
 
 <!-- ### Others
 ![Daily Coding rate](https://wakatime.com/badge/user/556b08dc-cf36-46cd-8d8d-569c16f13116.svg) -->
