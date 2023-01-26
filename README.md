@@ -1,6 +1,6 @@
 <p align="center">
  <b>Hi✌️!&nbsp; Welome, I'm Pacifiquem</b> 
-<p align="center"> FullStack developer & Think of me as a kinda open source enthusiast .<br> 
+<p align="center">✨ FullStack developer & Think of me as a kinda open source enthusiast . ✨<br> 
 </p>
 <samp>
 <p align="center">
@@ -10,9 +10,6 @@
  </p>
 <!--
 <code>.tsx</code>&nbsp;&nbsp;&nbsp;&nbsp;✨✨<code> Ctrl + R </code>✨✨
-
-
-
 <!-- <span>
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20beloved%20Visitor%20!;%20I%20am%20Pacifiquem;%20A%20fullstack%20developer;Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20things;Enjoy%20to%20explore%20my%20coding%20work%20.&font=Pacifico&center=true&width=650&height=120&color=84DCCF&vCenter=true&size=45%22"></a>
