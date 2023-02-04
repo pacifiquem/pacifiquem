@@ -1,5 +1,5 @@
 <p align="center">
- <b>Hi✌️!&nbsp; Welome, I'm Pacifiquem</b> 
+ <b>Hi! &nbsp;Welome, I'm Pacifiquem</b> 
 <p align="center">✨ FullStack developer & Think of me as a kinda open source enthusiast . ✨<br> 
 </p>
 <samp>
