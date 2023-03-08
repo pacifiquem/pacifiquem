@@ -9,6 +9,7 @@
   <a href="https://twitter.com/PacifiqueMuran1">Twitter</a>
 <div><br />
 
-|My overall statistics|Top most languages |
-|------------------|------------------|
-|![Pacifiquem's github stats](https://github-readme-stats.vercel.app/api?username=pacifiquem&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=5&hide_border=true&theme=tokyonight&layout=compact)|
+
+|My overall statistics|Top most languages | Streak |
+|------------------|------------------|------------------|
+|![Pacifiquem's github stats](https://github-readme-stats.vercel.app/api?username=pacifiquem&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pacifiquem&langs_count=5&hide_border=true&theme=tokyonight&layout=compact)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pacifiquem&show_icons=true&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)|
