@@ -36,15 +36,17 @@ Project:
 > [!Important]
 > You're already in the ocean of my past/current/future plans and works, just explore! Too many good projects that weren't listed.
 
-> [!Note]
-> Apart from those listed project, as an opensource enthusiast, I've contributed to `Node.js`, `Vercel labs`, `Nuxt`, `Nest.js`, `Pixi.js`, `auth0` and many more. Though my contributions were not that big but I gained experience that drives me as a good Software Engineer.
-> 
 - **Kin Programming Language** - a straightforward programming language created with the purpose of aiding Rwandans to write computer programs in their native language Kinyarwanda.
 - **jsonbase**                 - a simple ODM like `mongoose` for using json file-as-bd, it has cli version.
 - **stringhunt**               - string search via nested objects.
 - **lepper**                   - with a few commands you can set/get a brief description of a project's structure and also find part of your project which is not described.
 - **lin**                      - save your terminal session's commands and output into a file with an ease
 - (...manyMore)
+
+> [!Note]
+> Apart from those listed project, as an opensource enthusiast, I've contributed to `Node.js`, `Vercel labs`, `Nuxt`, `Nest.js`, `Pixi.js`, `auth0` and many more. Though my contributions were not that big but I gained experience that drives me as a good Software Engineer.
+
+<br/><br/>
 
 > Thanks for stopping by! If you’re interested in chatting, you can find me here: <a href="https://linkedin.com/in/pacifiquem">LinkedIn<a/> . <a href="https://twitter.com/_pacifiquem">Twitter</a> .<a href="mailto:pacifiquemurangwa001@gmail.com"> Mail </a>
 
